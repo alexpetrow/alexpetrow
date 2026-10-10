@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Alex 👋
 
-<!--
-**alexpetrow/alexpetrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**System Administrator → Cloud / DevOps Engineer**
 
-Here are some ideas to get you started:
+I work with Linux and Windows servers, networking, virtualization and monitoring.
+Currently turning that experience into code: Infrastructure as Code, automation,
+CI/CD and cloud-native operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Currently building
+- **[infrastructure-automation-lab](https://github.com/alexpetrow/infrastructure-automation-lab)** — Linux server provisioning and hardening with Ansible
+
+### 🛠️ Tech
+`Linux` `Windows Server` `Networking` `Virtualization` `Zabbix` `Python` `Bash` `Ansible` `AWS` `Docker` `Git`
+
+### 📜 Certifications
+- AWS Certified Cloud Practitioner
+- Cisco CCNA
+- AWS Certified Solutions Architect – Associate *(in progress)*
+
+### 📫 Contact
+[LinkedIn](https://www.linkedin.com/in/apetrov3/) · alex.petrow95@gmail.com
