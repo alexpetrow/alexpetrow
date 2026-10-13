@@ -6,8 +6,8 @@ I work with Linux and Windows servers, networking, virtualization and monitoring
 Currently turning that experience into code: Infrastructure as Code, automation,
 CI/CD and cloud-native operations.
 
-### 🔧 Currently building
-- **[infrastructure-automation-lab](https://github.com/alexpetrow/infrastructure-automation-lab)** — Linux server provisioning and hardening with Ansible
+### 🔧 Projects
+- **[infrastructure-automation-lab](https://github.com/alexpetrow/infrastructure-automation-lab)** — Ansible-based provisioning and hardening of Linux servers with CI, health checks and documented trade-offs
 
 ### 🛠️ Tech
 `Linux` `Windows Server` `Networking` `Virtualization` `Zabbix` `Python` `Bash` `Ansible` `AWS` `Docker` `Git`
