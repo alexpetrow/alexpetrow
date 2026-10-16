@@ -8,6 +8,7 @@ CI/CD and cloud-native operations.
 
 ### 🔧 Projects
 - **[infrastructure-automation-lab](https://github.com/alexpetrow/infrastructure-automation-lab)** — Ansible-based provisioning and hardening of Linux servers with CI, health checks and documented trade-offs
+- **[aws-terraform-infrastructure](https://github.com/alexpetrow/aws-terraform-infrastructure)** — AWS VPC, EC2 and IAM with Terraform modules, S3 remote state, security scanning in CI, configured with Ansible
 
 ### 🛠️ Tech
 `Linux` `Windows Server` `Networking` `Virtualization` `Zabbix` `Python` `Bash` `Ansible` `AWS` `Docker` `Git`
